@@ -1,4 +1,6 @@
 # DA-202-Pillow-Palooza-Project-VI
+   ![WHATSA~2](https://github.com/SOMPODDA/DA-202-Pillow-Palooza-Project-VI/assets/70188796/370e7cd8-3a26-4152-8ef2-960a324a348d)
+
 
 Pillow Palooza is a start-up focused on disrupting the traditional real estate market by offering short-term rental options for travelers. The company has seen a significant increase in demand for short-term rentals in New York City, but wants to better understand the market in order to optimize their business strategy.
                                    
@@ -15,3 +17,5 @@ John Kim, VP of Data: John is responsible for overseeing data strategy and analy
 Emily Chen, Head of Marketing: Emily is responsible for promoting Pillow Palooza's brand and increasing awareness among potential customers. She will be interested in the insights gained from the project to identify which neighborhoods and property types are most popular among potential guests and to develop targeted marketing campaigns to attract those guests.
 
 Michael Lee, Head of Finance: Michael is responsible for managing Pillow Palooza's finances, including setting rental prices and tracking revenue and expenses. He will be interested in the insights gained from the project to identify which neighborhoods and property types generate the highest revenue and to determine how to price rentals to maximize profitability
+
+              https://public.tableau.com/app/profile/somnath.sudarshan.poddar/viz/Pillow-Palooza-NewYorkAirbnb-Short-TermRentalInsights/PillowPalooza?publish=yes
