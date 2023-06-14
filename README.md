@@ -9,14 +9,14 @@ Pillow Palooza has collected data from various sources on Airbnb listings in New
 You have been selected for the Data Project. The project will provide insights and recommendations to the Pillow Palloza team, which is responsible for leading growth and success in the short-term rental market in New York City:
                                      ![WHATSA~1](https://github.com/SOMPODDA/DA-202-Pillow-Palooza-Project-VI/assets/70188796/d253ff39-7582-4b6f-891b-a3cc4bd9722e)
 
-
-Samantha Patel, CEO: As the CEO of Pillow Palooza, Samantha is responsible for setting the company's strategy and making high-level decisions about where to allocate resources. She will be interested in the insights gained from the project to determine which neighborhoods and property types the company should invest in and how to price their rentals to remain competitive in the market.
-
 1. What are the most popular neighborhoods for short-term rentals in New York City?
 2. What is the average rental price for short-term rentals in New York City, and how does it vary by neighborhood and property type?
 3. What are the most commonly rented property types on Airbnb in New York City, and how does this vary by neighborhood?
 4. What is the average length of stay for short-term rentals in New York City, and how does this vary by neighborhood and property type?
-5. How has demand for short-term rentals in New York City changed over time, and are there any seasonal trends that could impact business decisions?
+5. How has demand for short-term rentals in New York City changed over time, and are there any seasonal trends that could impact business decisions? 
+
+
+Samantha Patel, CEO: As the CEO of Pillow Palooza, Samantha is responsible for setting the company's strategy and making high-level decisions about where to allocate resources. She will be interested in the insights gained from the project to determine which neighborhoods and property types the company should invest in and how to price their rentals to remain competitive in the market.
 
 John Kim, VP of Data: John is responsible for overseeing data strategy and analysis at Pillow Palooza. He will be interested in the insights gained from the project to understand how data can be used to drive business decisions and to identify any trends or patterns that can inform future projects or analyses. John may also be interested in exploring machine learning or predictive modeling to forecast demand for short-term rentals in different neighborhoods.
 
