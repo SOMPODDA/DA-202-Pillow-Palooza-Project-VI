@@ -15,6 +15,7 @@ You have been selected for the Data Project. The project will provide insights a
 4. What is the average length of stay for short-term rentals in New York City, and how does this vary by neighborhood and property type?
 5. How has demand for short-term rentals in New York City changed over time, and are there any seasonal trends that could impact business decisions? 
 
+      ![image](https://github.com/SOMPODDA/DA-202-Pillow-Palooza-Project-VI/assets/70188796/96f128e9-7b35-4b0a-8507-a30c7a471c59)
 
 Samantha Patel, CEO: As the CEO of Pillow Palooza, Samantha is responsible for setting the company's strategy and making high-level decisions about where to allocate resources. She will be interested in the insights gained from the project to determine which neighborhoods and property types the company should invest in and how to price their rentals to remain competitive in the market.
 
