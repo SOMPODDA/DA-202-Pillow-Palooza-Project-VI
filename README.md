@@ -1,4 +1,5 @@
-# DA-202-Pillow-Palooza-START-UP-Rental Business - Growth Opportunities and success
+# DA-202-Pillow-Palooza-START-UP-Rental Business - Growth Opportunities and success  ![image](https://github.com/SOMPODDA/DA-202-Pillow-Palooza-Project-VI/assets/70188796/abe6fd6b-97a5-4461-a2e6-f321669638f9)
+
   
    ![image](https://github.com/SOMPODDA/DA-202-Pillow-Palooza-Project-VI/assets/70188796/96f128e9-7b35-4b0a-8507-a30c7a471c59)
 
