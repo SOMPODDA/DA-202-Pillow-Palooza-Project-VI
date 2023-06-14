@@ -44,3 +44,11 @@ B. Data Analysis and Insights Generation: Data Insights with SQL
 C. Presenting your findings for Business Impact
 
               https://public.tableau.com/app/profile/somnath.sudarshan.poddar/viz/Pillow-Palooza-NewYorkAirbnb-Short-TermRentalInsights/PillowPalooza?publish=yes
+
+Learning Outcomes:
+
+1. Learn how to clean and transform data to make it suitable for analysis.
+2. Formulate and test hypotheses to answer research questions and draw conclusions.
+3. Plan an analysis workflow using multiple tools: Python SQL spreadsheets and Tableau
+4. Effectively interpret and communicate data using graphs tables and statistical language.
+5. Conduct EDA to gain a better understanding of the data and extract insights.
