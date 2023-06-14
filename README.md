@@ -1,4 +1,4 @@
-# DA-202-Pillow-Palooza-Project-VI
+# DA-202-Pillow-Palooza-START-UP-Growth Opportunities and success
    ![WHATSA~2](https://github.com/SOMPODDA/DA-202-Pillow-Palooza-Project-VI/assets/70188796/370e7cd8-3a26-4152-8ef2-960a324a348d)
 
 
