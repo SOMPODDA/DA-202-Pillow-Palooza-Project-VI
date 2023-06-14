@@ -1,6 +1,6 @@
 # DA-202-Pillow-Palooza-START-UP-Rental Business - Growth Opportunities and success
   
-                       ![image](https://github.com/SOMPODDA/DA-202-Pillow-Palooza-Project-VI/assets/70188796/96f128e9-7b35-4b0a-8507-a30c7a471c59)
+   ![image](https://github.com/SOMPODDA/DA-202-Pillow-Palooza-Project-VI/assets/70188796/96f128e9-7b35-4b0a-8507-a30c7a471c59)
 
 Pillow Palooza is a start-up focused on disrupting the traditional real estate market by offering short-term rental options for travelers. The company has seen a significant increase in demand for short-term rentals in New York City, but wants to better understand the market in order to optimize their business strategy.
                                    
