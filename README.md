@@ -25,6 +25,9 @@ Emily Chen, Head of Marketing: Emily is responsible for promoting Pillow Palooza
 
 Michael Lee, Head of Finance: Michael is responsible for managing Pillow Palooza's finances, including setting rental prices and tracking revenue and expenses. He will be interested in the insights gained from the project to identify which neighborhoods and property types generate the highest revenue and to determine how to price rentals to maximize profitability.
 
+   ![image](https://github.com/SOMPODDA/DA-202-Pillow-Palooza-Project-VI/assets/70188796/10f2906f-1123-44c2-9fdf-f74296b93019)
+
+
 Project Logistics:
 
 A. Data Wrangling and Cleaning
