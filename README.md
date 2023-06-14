@@ -46,6 +46,9 @@ C. Presenting your findings for Business Impact
 
               https://public.tableau.com/app/profile/somnath.sudarshan.poddar/viz/Pillow-Palooza-NewYorkAirbnb-Short-TermRentalInsights/PillowPalooza?publish=yes
 
+   ![image](https://github.com/SOMPODDA/DA-202-Pillow-Palooza-Project-VI/assets/70188796/b2763d08-1f04-46d3-ac46-cb1a4917e474)
+
+
 Learning Outcomes:
 
 1. Learn how to clean and transform data to make it suitable for analysis.
