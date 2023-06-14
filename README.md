@@ -39,7 +39,7 @@ A. Data Wrangling and Cleaning
    9. Price range by borough
    10. Export the datasets that you have cleaned.
   
-B. Data Analysis and Insights Generation
+B. Data Analysis and Insights Generation: Data Insights with SQL
 
 C. Presenting your findings for Business Impact
 
