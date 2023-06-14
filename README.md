@@ -25,7 +25,9 @@ Emily Chen, Head of Marketing: Emily is responsible for promoting Pillow Palooza
 Michael Lee, Head of Finance: Michael is responsible for managing Pillow Palooza's finances, including setting rental prices and tracking revenue and expenses. He will be interested in the insights gained from the project to identify which neighborhoods and property types generate the highest revenue and to determine how to price rentals to maximize profitability.
 
 Project Logistics:
+
 A. Data Wrangling and Cleaning
+
    1. Importing the data
    2. Cleaning the price column
    3. Removing Outliers
@@ -36,7 +38,9 @@ A. Data Wrangling and Cleaning
    8. Analyzing listing prices by NYC borough
    9. Price range by borough
    10. Export the datasets that you have cleaned.
+  
 B. Data Analysis and Insights Generation
+
 C. Presenting your findings for Business Impact
 
               https://public.tableau.com/app/profile/somnath.sudarshan.poddar/viz/Pillow-Palooza-NewYorkAirbnb-Short-TermRentalInsights/PillowPalooza?publish=yes
