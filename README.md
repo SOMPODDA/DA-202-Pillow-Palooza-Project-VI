@@ -60,3 +60,5 @@ Learning Outcomes:
 3. Plan an analysis workflow using multiple tools: Python SQL spreadsheets and Tableau
 4. Effectively interpret and communicate data using graphs tables and statistical language.
 5. Conduct EDA to gain a better understanding of the data and extract insights.
+
+   ![image](https://github.com/SOMPODDA/DA-202-Pillow-Palooza-Project-VI/assets/70188796/45f2a4cb-ff2a-4797-a6c7-681edd4d71cf)
